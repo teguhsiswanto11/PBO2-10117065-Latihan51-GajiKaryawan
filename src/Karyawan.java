@@ -58,7 +58,7 @@ public class Karyawan {
         double besarTunjangan = 0;
         switch (jabatan) {
             case "Manager": besarTunjangan=2000000; break;
-            case "Kabag": besarTunjangan=2000000; break;
+            case "Kabag": besarTunjangan=1000000; break;
         }
     return besarTunjangan;}
 
